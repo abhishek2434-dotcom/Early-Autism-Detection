@@ -30,6 +30,3 @@ We focus on detecting:
 - `utils/`: Helper scripts
 - `models/`: Pose model logic
 - `sample_videos/`: Test videos
-
-## Authors:
-Abhishek K — SRM University
